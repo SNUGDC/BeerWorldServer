@@ -36,3 +36,10 @@ Mongod
 
 * No deafult data required.
 * Need to run default port 27017
+
+
+Author
+---------
+
+* All code is written by Hyunjun Kim.
+* Juhyeong park is only upload the code to github.
